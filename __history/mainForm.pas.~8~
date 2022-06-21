@@ -1,0 +1,39 @@
+unit mainForm;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus;
+
+type
+  TfTarefas = class(TForm)
+    MenuTarefas: TMainMenu;
+    mTarefas: TMenuItem;
+    itemTarefas1: TMenuItem;
+    procedure itemTarefas1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  fTarefas: TfTarefas;
+
+implementation
+
+uses
+  ufTarefa1;
+{$R *.dfm}
+
+procedure TfTarefas.itemTarefas1Click(Sender: TObject);
+begin
+  //if not Assigned(fTarefa1) then
+  //begin
+    //fTarefa1 := fTarefa1.Create(Self);
+  //end;
+  fTarefa1.Show;
+end;
+
+end.

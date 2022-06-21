@@ -1,0 +1,14 @@
+program ProvaDelphiApp2;
+
+uses
+  Vcl.Forms,
+  mainForm in 'mainForm.pas' {fTarefas};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfTarefas, fTarefas);
+  Application.Run;
+end.

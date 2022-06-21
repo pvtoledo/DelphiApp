@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/18 19:49:54.000.753,D:\Paulo\Delphi\Teste\ProvaDelphiAppTeste.groupproj=D:\Paulo\Delphi\ProvaAppTarefa\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2022/06/19 22:53:59.000.216,D:\Paulo\Delphi\Teste\ProvaDelphiAppTeste.groupproj=D:\Paulo\Delphi\Teste\ProvaDelphiApp.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="D:\Paulo\Delphi\Teste\ProvaDelphi.dproj"/>
+	</Default.Personality>
+</BorlandProject>

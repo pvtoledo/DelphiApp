@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/18 19:49:00.000.848,=rtl.dcp</Transaction>
+    <Transaction>2022/06/18 19:49:17.000.342,D:\Paulo\Delphi\ProvaAppTarefa\Package1.dproj=D:\Paulo\Delphi\Teste\spComponentsDT.dproj</Transaction>
+    <Transaction>2022/06/19 10:06:08.000.362,=spComponents.dcp</Transaction>
+    <Transaction>2022/06/19 10:06:45.000.775,=D:\Paulo\Delphi\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/19 10:07:30.000.826,D:\Paulo\Delphi\Teste\Unit1.pas=D:\Paulo\Delphi\Teste\uspComponentesRegistro.pas</Transaction>
+    <Transaction>2022/06/20 19:24:18.000.527,=spComponents.dcp</Transaction>
+    <Transaction>2022/06/20 19:24:58.000.550,=spComponents.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

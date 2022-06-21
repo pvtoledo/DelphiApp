@@ -1,0 +1,15 @@
+unit uspComponentesRegistro;
+
+interface
+
+uses
+  System.Classes;
+
+implementation
+
+procedure Register;
+begin
+  //RegisterComponents('Samples',[TspQuery]);
+end;
+
+end.

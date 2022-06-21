@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/18 19:46:56.000.309,=D:\Paulo\Delphi\ProvaAppTarefa\Unit1.pas</Transaction>
+    <Transaction>2022/06/18 19:47:45.000.477,D:\Paulo\Delphi\Teste\mainForm.pas=D:\Paulo\Delphi\ProvaAppTarefa\Unit1.pas</Transaction>
+    <Transaction>2022/06/18 19:47:45.000.477,D:\Paulo\Delphi\Teste\mainForm.dfm=D:\Paulo\Delphi\ProvaAppTarefa\Unit1.dfm</Transaction>
+    <Transaction>2022/06/18 19:47:55.000.967,D:\Paulo\Delphi\Teste\ProvaDelphiApp2.dproj=D:\Paulo\Delphi\ProvaAppTarefa\Project1.dproj</Transaction>
+    <Transaction>2022/06/19 10:39:35.000.889,=D:\Paulo\Delphi\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/19 10:40:58.000.645,D:\Paulo\Delphi\Teste\ufTarefa1.dfm=D:\Paulo\Delphi\Teste\Unit1.dfm</Transaction>
+    <Transaction>2022/06/19 10:40:58.000.645,D:\Paulo\Delphi\Teste\ufTarefa1.pas=D:\Paulo\Delphi\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/19 10:59:04.000.296,=D:\Paulo\Delphi\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/19 10:59:33.000.627,D:\Paulo\Delphi\Teste\Unit1.dfm=D:\Paulo\Delphi\Teste\ufTarefa2.dfm</Transaction>
+    <Transaction>2022/06/19 10:59:33.000.627,D:\Paulo\Delphi\Teste\Unit1.pas=D:\Paulo\Delphi\Teste\ufTarefa2.pas</Transaction>
+    <Transaction>2022/06/19 13:48:53.000.719,=D:\Paulo\Delphi\ProvaAppTarefa\MyThread.pas</Transaction>
+    <Transaction>2022/06/19 13:49:06.000.959,D:\Paulo\Delphi\ProvaAppTarefa\MyThread.pas=</Transaction>
+    <Transaction>2022/06/19 13:49:18.000.207,=D:\Paulo\Delphi\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/19 13:49:26.000.155,D:\Paulo\Delphi\Teste\Unit1.pas=D:\Paulo\Delphi\Teste\MyThread.pas</Transaction>
+    <Transaction>2022/06/19 13:54:29.000.906,=D:\Paulo\Delphi\Teste\ufTarefa3.pas</Transaction>
+    <Transaction>2022/06/19 14:04:23.000.663,D:\Paulo\Delphi\Teste\ufTarefa3.pas=</Transaction>
+    <Transaction>2022/06/19 14:05:03.000.801,=D:\Paulo\Delphi\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/19 14:05:14.000.875,D:\Paulo\Delphi\Teste\ufTarefa3.dfm=D:\Paulo\Delphi\Teste\Unit1.dfm</Transaction>
+    <Transaction>2022/06/19 14:05:14.000.875,D:\Paulo\Delphi\Teste\ufTarefa3.pas=D:\Paulo\Delphi\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/06/19 22:53:37.000.172,D:\Paulo\Delphi\Teste\ProvaDelphiApp2.dproj=D:\Paulo\Delphi\Teste\ProvaDelphiApp.dproj</Transaction>
+    <Transaction>2022/06/19 22:53:53.000.308,D:\Paulo\Delphi\Teste\ProvaDelphiApp.dproj=D:\Paulo\Delphi\Teste\ProvaDelphi.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
